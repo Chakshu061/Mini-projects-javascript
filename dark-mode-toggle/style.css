@@ -35,7 +35,7 @@ body{
     margin: 0; 
     flex: 1;    
 }
-.dark {
+.left.dark {
     background-color: rgb(5, 5, 4);
     color: rgb(243, 210, 61);
 }
